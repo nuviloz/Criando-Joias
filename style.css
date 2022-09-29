@@ -1,0 +1,26 @@
+html,
+body {
+  /* Tamanho e posicionamento */
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+
+  font-family: "Lato", sans-serif;
+
+  font-size: 16px;
+
+  color: rgb(221, 123, 10);
+}
+
+a {
+  color: rgb(221, 123, 10);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(221, 123, 10);
+  text-decoration: none;
+}
+
