@@ -1,0 +1,13 @@
+\* tamano de los logo*\
+box-sizing: border-box;
+outline: none;
+}
+
+html,
+body {
+  /* Tamanho e posicionamento */
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 
